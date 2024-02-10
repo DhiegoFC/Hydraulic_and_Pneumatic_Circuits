@@ -1,2 +1,2 @@
 # Hydraulic_and_Pneumatic_Circuits
-The public repository of the Hydraulic and Pneumatic Circuits discipline minister Prof. Dr. Dhiego Fernandes Carvalho at UNESP Sorocaba
+The public repository for the Hydraulic and Pneumatic Circuits course, taught by Prof. Dr. Dhiego Fernandes Carvalho, at State University of São Paulo, Sorocaba, Brazil
