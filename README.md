@@ -14,7 +14,23 @@ Public Repository for ' Hydraulic and Pneumatic Circuits', a undergraduate cours
 * Explain the role and functionality of Programmable Logic Controllers (PLCs) in automation.
 * Provide training on programming PLCs for controlling electropneumatic circuits.
 
-## Evaluation
+#### Evaluation
  Using the FESTO Workstation and FluidSim software, this course is designed to simulate and create pneumatic and electropneumatic circuits, allowing students to connect theoretical knowledge with pratical exercise. Throughout the course, all evaluations are conducted through pratical tasks using the FESTO workstation.
 
  ![FESTO Workstation](./images/FESTO_workstation_software.jpg)
+
+#### Prerequisites
+ * Basic Knowledge in Physics and Mathematics.
+ * Basic Knowledge in Programming.
+ * Good Knowledge in Electricity and Electronic.
+
+#### Contact
+If you have any further questions, please contact me: dhiego.fernandes@unesp.br
+
+**Week 01: Course Presentation and Introduction of Hydraulic and Pneumatic Circuits**
+* Course Presentation
+* Introduction of Hydraulic and Pneumatic Circuits
+
+**Week 02: FESTO Workstation's Components**
+* FESTO Workstation's Components
+ 
