@@ -17,4 +17,4 @@ Public Repository for ' Hydraulic and Pneumatic Circuits', a undergraduate cours
 ## Evaluation
  Using the FESTO Workstation and FluidSim software, this course is designed to simulate and create pneumatic and electropneumatic circuits, allowing students to connect theoretical knowledge with pratical exercise. Throughout the course, all evaluations are conducted through pratical tasks using the FESTO workstation.
 
- ![FESTO Workstation](./images/FESTO_workstation.png)
+ ![FESTO Workstation](./images/FESTO_workstation_software.jpg)
