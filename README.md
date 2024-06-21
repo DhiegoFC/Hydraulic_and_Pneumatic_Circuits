@@ -3,11 +3,11 @@
 # State University of São Paulo (UNESP)
 ## Institute of Science and Technology, Sorocaba (ICTS)
 ### Department of Control and Automation Engineering
-#### Hydraulic and Pneumatic Circuits
+### Hydraulic and Pneumatic Circuits
 
 Public Repository for ' Hydraulic and Pneumatic Circuits', a undergraduate course offered by the Department of Control and Automation Engineering at the State University of São Paulo (UNESP), Institute of Science and Technology, Sorocaba (ICTS).
 
-### Objectives
+#### Objectives
 * Teach the principles of hydraulic, pneumatic, and electropneumatic automation and their applications in the industry.
 * Explore the main components of hydraulic, pneumatic, and electropneumatic systems and understand their functions.
 * Instruct on how to simulate and design circuits for pneumatic and electropneumatic applications.
