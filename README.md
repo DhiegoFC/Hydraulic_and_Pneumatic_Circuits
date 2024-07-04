@@ -33,6 +33,6 @@ If you have any further questions, please contact me: dhiego.fernandes@unesp.br
 
 
 **Week 02: FESTO Workstation's Components**
-* FESTO Workstation's Components <a href="week_02_Festo_Workstation_Components_CHP_Dhiego"> <img src="images/pdf_logo1.png" alt="PDF" width="23"/> </a>
+* FESTO Workstation's Components <a href="/lessons/week_02/week_02_Festo_Workstation_Components_CHP_Dhiego"> <img src="images/pdf_logo1.png" alt="PDF" width="23"/> </a>
 * Download FluidSIM 4.2 [here](https://drive.google.com/file/d/1wm44liksK-ovHV18pJ9pXwUxrgbh1uTy/view?usp=drive_link).
 * A tutorial how to install FluidSIM 4.2 <a href="https://www.youtube.com/watch?v=8kVYLnA5MqU"> <img src="./images/youtube.jpg" alt="youtube" width="80" height="17" /> </a>
