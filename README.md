@@ -38,4 +38,4 @@ If you have any further questions, please contact me: dhiego.fernandes@unesp.br
 * A tutorial how to install FluidSIM 4.2 <a href="https://www.youtube.com/watch?v=8kVYLnA5MqU"> <img src="./images/youtube.jpg" alt="youtube" width="80" height="17" /> </a>
 
 **Week 03 to 06: Pneumatics Circuits**
-* Exercise: [Simple and Double Action Cylinder](./lessons/week_03/) 
+* Exercise:[Single and Double-Acting Cylinders](./lessons/week_03/) 
