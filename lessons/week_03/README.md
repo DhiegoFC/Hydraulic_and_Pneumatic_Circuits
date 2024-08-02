@@ -1,5 +1,4 @@
-![ICTS](./images/unesp_sorocaba.jpg)
 
 # Simple and Double Action Cylinders
 ## Simple Action Pneumatic Circuit - Start Buton
-![Simple Action Pneumatic Circuit - Start Buton](./lesson_images/Circuito Pneumático de Simples Ação - Botão de Acionamento.jpg)
+![Simple Action Pneumatic Circuit - Start Button](./lesson_images/Circuito%20Pneumático%20de%20Simples%20Ação%20-%20Botão%20de%20Acionamento.jpg)
