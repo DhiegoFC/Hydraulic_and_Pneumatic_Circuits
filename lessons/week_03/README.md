@@ -9,7 +9,7 @@
 <img src="./lesson_images/Circuito%20Pneumático%20de%20Dupla%20Ação%20-%20Duplo%20Botão%20de%20Acionamento.jpg" alt="Double-Acting Pneumatic Circuit - Double Start Button" width="350"/>
 
 ## 3. Double-Acting Pneumatic Circuit with End of Stroke - Start Button 
-<img src="./lesson_images/Circuito%20Pneumático%20de%20Dupla%20Ação%20com%20Fim%20de%20Curso%20-%20Duplo%20Botão%20de%20Acionamento.jpg" alt=
+<img src="./lesson_images/Circuito%20Pneumático%20de%20Dupla%20Ação%20com%20Fim%20de%20Curso%20-%20Botão%20de%20Acionamento.jpg" alt=
 "Double-Acting Pneumatic Circuit with End of Stroke - Start Button " width="350"/>
 
 ## 4. Double-Acting Pneumatic Circuit with Start and End of Stroke - Automatic 
