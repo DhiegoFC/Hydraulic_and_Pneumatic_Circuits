@@ -14,7 +14,7 @@ This lesson aims to demonstrate and practice the operation of AND and OR valves,
 
 ## 4. Step Diagram (A+B+A-B-)
 <img src="./lesson_images/Circuito_Pneumático_Diagram_Passo_Dois_Cilindros_Dupla_Ação.jpg" alt=
-"Double-Acting Pneumatic Circuit with Step Diagram - Two Cylinders" width="350"/>
+"Double-Acting Pneumatic Circuit with Step Diagram - Two Cylinders" width="500"/>
 
 
 
