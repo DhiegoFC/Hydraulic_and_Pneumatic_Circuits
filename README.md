@@ -39,3 +39,4 @@ If you have any further questions, please contact me: dhiego.fernandes@unesp.br
 
 **Week 03 to 06: Pneumatics Circuits**
 * Exercise: [Single and Double-Acting Cylinders](./lessons/week_03/) 
+* Exercice: [AND and OR Valves, and Step Diagram](./lessons/week_03/)
