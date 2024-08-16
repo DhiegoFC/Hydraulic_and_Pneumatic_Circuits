@@ -9,7 +9,7 @@ This lesson aims to demonstrate and practice the operation of AND and OR valves,
 <img src="./lesson_images/Circuito_Pneumático_de_Dupla_Ação_com_Fim_de_Curso_Válvula_E.jpg" alt="Double-Acting Pneumatic Circuit - AND Valve" width="350"/>
 
 ## 3. Double-Acting Cylinder with Start and End of Stroke - AND Valve
-<img src="Circuito_Pneumático_de_Dupla_Ação_com_Incio_e_Fim_de_Curso_Válvula_E.jpg" alt=
+<img src="./lessson_images/Circuito_Pneumático_de_Dupla_Ação_com_Incio_e_Fim_de_Curso_Válvula_E.jpg" alt=
 "Double-Acting Pneumatic Circuit with Start and End of Stroke - AND Valve" width="350"/>
 
 ## 4. Step Diagram (A+B+A-B-)
