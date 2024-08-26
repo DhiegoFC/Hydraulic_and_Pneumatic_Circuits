@@ -41,3 +41,4 @@ If you have any further questions, please contact me: dhiego.fernandes@unesp.br
 * Exercise: [Single and Double-Acting Cylinders](./lessons/week_03/) 
 * Exercice: [AND and OR Valves, and Step Diagram](./lessons/week_04/)
 * Exercise: [Step Diagram and Overlap](./lessons/week_05/)
+* Exercise: [Step Diagram with Overlap using 3 Cylinders](./lessons/week_06/)
