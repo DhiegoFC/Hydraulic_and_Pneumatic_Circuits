@@ -44,4 +44,4 @@ If you have any further questions, please contact me: dhiego.fernandes@unesp.br
 * Exercise: [Step Diagram with Overlap using 3 Cylinders](./lessons/week_06/)
 
 **Week 08 to 12: Eletropneumatics Circuits**
-* Exercise: [Comparison between Pneumatics and Eletropneumatics circuits](.lessons/week_08)
+* Exercise: [Comparison between Pneumatics and Eletropneumatics circuits](./lessons/week_08)
