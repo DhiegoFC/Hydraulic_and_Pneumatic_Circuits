@@ -42,3 +42,6 @@ If you have any further questions, please contact me: dhiego.fernandes@unesp.br
 * Exercice: [AND and OR Valves, and Step Diagram](./lessons/week_04/)
 * Exercise: [Step Diagram and Overlap](./lessons/week_05/)
 * Exercise: [Step Diagram with Overlap using 3 Cylinders](./lessons/week_06/)
+
+**Week 08 to 12: Eletropneumatics Circuits**
+* Exercise: [Comparison between Pneumatics and Eletropneumatics circuits](.lessons/week_08)
