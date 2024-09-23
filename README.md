@@ -46,3 +46,4 @@ If you have any further questions, please contact me: dhiego.fernandes@unesp.br
 **Week 08 to 12: Eletropneumatics Circuits**
 * Exercise: [Comparison between Pneumatics and Eletropneumatics circuits](./lessons/week_08)
 * Exercise: [Double-Acting Cylinder with Proximity Sensors](./lessons/week_09)
+* Exercise: [Electropneumatic Circuit A+B+A-B-](./lessons/week_10)
