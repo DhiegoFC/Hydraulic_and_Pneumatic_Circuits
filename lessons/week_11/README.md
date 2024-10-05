@@ -1,5 +1,5 @@
 
-# Electropneumatic Circuit with Overlap
+# Electropneumatic Circuit A+B+B-A- with Overlap (B+B-)
 
 This lesson aims to create an electropneumatic circuit with overlap (A+B+B-A-), using a relay latch to solve the overlap issue (B+B-).
 
