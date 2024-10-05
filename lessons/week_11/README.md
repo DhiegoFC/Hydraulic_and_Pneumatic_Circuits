@@ -6,7 +6,7 @@ This lesson aims to create an electropneumatic circuit with overlap (A+B+B-A-), 
 ## 1. Relay Latch
 The electropneumatic circuit below demonstrates how a relay latch is used to assist in the logic of an ON and OFF button, acting as a memory variable.
 
-<img src="./lesson_images/circuito_eletropneumático_selo_de_rele.jpg" alt="Electropneumatic Circuit with Relay Latch" width="800"/>
+<img src="./lesson_images/circuito_eletropneumático_selo_de_rele.jpg" alt="Electropneumatic Circuit with Relay Latch" width="600"/>
 
 ## 2. Electropneumatic Circuit with Overlap (A+B+B-A-)
 
