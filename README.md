@@ -53,8 +53,6 @@ If you have any further questions, please contact me: dhiego.fernandes@unesp.br
 **Weeks 12 and 13: Programmable Logic Controller (PLC)**
 
 * Exercise: [Introduction to the FESTO PLC](./lessons/week_12) 
-* Download FESTO FST 4.1 [here](https://drive.google.com/file/d/1FLzshOeWlZKFPCUWvR4jAU40I81NXLMB/view?usp=sharing).
- 
-**NOTE: If you encounter any installation issues, go directly to the "FST" folder and install FST 4.1 using the FST icon.**
+* Download FESTO FST 4.1 [here](https://drive.google.com/file/d/1FLzshOeWlZKFPCUWvR4jAU40I81NXLMB/view?usp=sharing). **NOTE: If you encounter any installation issues, go directly to the "FST" folder and install FST 4.1 using the FST icon.**
 * Video on Configuring FESTO FST 4.1 [here](https://drive.google.com/file/d/1NDSesmh2FgIaR8LIMroWunl9-mZSOVcJ/view?usp=sharing).
 
