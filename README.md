@@ -43,7 +43,7 @@ If you have any further questions, please contact me: dhiego.fernandes@unesp.br
 * Exercise: [Step Diagram and Overlap](./lessons/week_05/)
 * Exercise: [Step Diagram with Overlap using 3 Cylinders](./lessons/week_06/)
 
-**Week 08 to 12: Eletropneumatics Circuits**
+**Week 08 to 11: Eletropneumatics Circuits**
 * Exercise: [Comparison between Pneumatics and Eletropneumatics circuits](./lessons/week_08)
 * Exercise: [Double-Acting Cylinder with Proximity Sensors](./lessons/week_09)
 * Exercise: [Electropneumatic Circuit A+B+A-B-](./lessons/week_10)
@@ -52,7 +52,8 @@ If you have any further questions, please contact me: dhiego.fernandes@unesp.br
 
 **Weeks 12 and 13: Programmable Logic Controller (PLC)**
 
-* Exercise: [Introduction to the FESTO PLC](./lessons/week_12) 
 * Download FESTO FST 4.1 [here](https://drive.google.com/file/d/1FLzshOeWlZKFPCUWvR4jAU40I81NXLMB/view?usp=sharing). **NOTE: If you encounter any installation issues, go directly to the "FST" folder and install FST 4.1 using the FST icon.**
 * Video on Configuring FESTO FST 4.1 [here](https://drive.google.com/file/d/1NDSesmh2FgIaR8LIMroWunl9-mZSOVcJ/view?usp=sharing).
+* Exercise: [Introduction to the FESTO PLC](./lessons/week_12) 
+* Exercise: [Step Diagram with Overlap (A+B+B-A-) using PLC](./lessons/week_13) 
 
